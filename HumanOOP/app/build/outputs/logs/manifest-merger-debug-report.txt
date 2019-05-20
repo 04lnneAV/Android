@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\6dc8df2ea2d5dbda0bc8821b6dd5fa20\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\ccc78c5bb982a4f8ea27d4d2e5ebe3d8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\6227c91d83de1d582fc463ea2e2c9d90\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\c5d6f66ab0582dea6288aa1dc1c9bb20\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\539c67b384646d330fe88d465da1e3f0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4ebbc85c9a91488c6ab487a142c2691d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\b07adecae0a8897631c65a3b2a7dae61\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\95cd60de4673a37e44af5635e1e7e098\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\558777efb72efd5460b273aa3b040a04\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4796ec2c7f0ee5fcf99aaaf4b67cb71a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\21248c3f3399f05176b2062e2db31f56\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\bf89823f118e6a32b23674d23661405c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a1f0c860d14f5661bd0329d7828edae0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4ca375fcf5523c51afcb18da4979e67b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\f86c5bd8bbc088f788a612eac34c5855\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\39063a59f4fca370fa7665ceb9f3645e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4c39a10e50790f7a67f1047ef547104a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\145bc500278a2e859ec7adb8f2104710\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\2f0fc80beb463e005518137cca84bdd8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\16634a14c059f31beea48fd0973048c2\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a3fd463dc76cd9f97f12f9e59821a255\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\8551de8ae28c1ed37894aeb0d76bf117\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a415761c43d7ace1a10b312d19eda625\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\2d452ae3f712f19f7eb68b2246325d3b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\88e629326a5faf32c976b63b485f5465\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\5703eb7392f836dc533cf7e283537fb1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\aaab7c566bbe644896ec656f674eb65d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a0a45072f861b0fe97814aa8ecc555c2\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\0315332b367dbb97d41583f434d251dd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\345f0cd2b2f8d445125c3ee52b5f9f91\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\acf2904f795c411b51ba3d4d5daf96ff\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:4:5-35
+		INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+	xmlns:dist
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:3:5-61
+	android:versionCode
+		INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:2:11-69
+dist:module
+ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:6:5-40
+	dist:instant
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:6:18-37
+application
+ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:8:5-25:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\6dc8df2ea2d5dbda0bc8821b6dd5fa20\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\6dc8df2ea2d5dbda0bc8821b6dd5fa20\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\6227c91d83de1d582fc463ea2e2c9d90\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\6227c91d83de1d582fc463ea2e2c9d90\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.0.1] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\2f0fc80beb463e005518137cca84bdd8\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\2f0fc80beb463e005518137cca84bdd8\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\16634a14c059f31beea48fd0973048c2\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\16634a14c059f31beea48fd0973048c2\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\2f0fc80beb463e005518137cca84bdd8\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.humanoop.MainActivity
+ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:15:9-24:20
+	android:label
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:17:13-45
+	android:theme
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:18:13-56
+	android:name
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:16:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\6dc8df2ea2d5dbda0bc8821b6dd5fa20\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\6dc8df2ea2d5dbda0bc8821b6dd5fa20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\ccc78c5bb982a4f8ea27d4d2e5ebe3d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\ccc78c5bb982a4f8ea27d4d2e5ebe3d8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\6227c91d83de1d582fc463ea2e2c9d90\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\6227c91d83de1d582fc463ea2e2c9d90\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\c5d6f66ab0582dea6288aa1dc1c9bb20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\c5d6f66ab0582dea6288aa1dc1c9bb20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\539c67b384646d330fe88d465da1e3f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\539c67b384646d330fe88d465da1e3f0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4ebbc85c9a91488c6ab487a142c2691d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4ebbc85c9a91488c6ab487a142c2691d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\b07adecae0a8897631c65a3b2a7dae61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\b07adecae0a8897631c65a3b2a7dae61\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\95cd60de4673a37e44af5635e1e7e098\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\95cd60de4673a37e44af5635e1e7e098\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\558777efb72efd5460b273aa3b040a04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\558777efb72efd5460b273aa3b040a04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4796ec2c7f0ee5fcf99aaaf4b67cb71a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4796ec2c7f0ee5fcf99aaaf4b67cb71a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\21248c3f3399f05176b2062e2db31f56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\21248c3f3399f05176b2062e2db31f56\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\bf89823f118e6a32b23674d23661405c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\bf89823f118e6a32b23674d23661405c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a1f0c860d14f5661bd0329d7828edae0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a1f0c860d14f5661bd0329d7828edae0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4ca375fcf5523c51afcb18da4979e67b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4ca375fcf5523c51afcb18da4979e67b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\f86c5bd8bbc088f788a612eac34c5855\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\f86c5bd8bbc088f788a612eac34c5855\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\39063a59f4fca370fa7665ceb9f3645e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\39063a59f4fca370fa7665ceb9f3645e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4c39a10e50790f7a67f1047ef547104a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\4c39a10e50790f7a67f1047ef547104a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\145bc500278a2e859ec7adb8f2104710\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\145bc500278a2e859ec7adb8f2104710\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\2f0fc80beb463e005518137cca84bdd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\2f0fc80beb463e005518137cca84bdd8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\16634a14c059f31beea48fd0973048c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\16634a14c059f31beea48fd0973048c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a3fd463dc76cd9f97f12f9e59821a255\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a3fd463dc76cd9f97f12f9e59821a255\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\8551de8ae28c1ed37894aeb0d76bf117\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\8551de8ae28c1ed37894aeb0d76bf117\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a415761c43d7ace1a10b312d19eda625\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a415761c43d7ace1a10b312d19eda625\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\2d452ae3f712f19f7eb68b2246325d3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\2d452ae3f712f19f7eb68b2246325d3b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\88e629326a5faf32c976b63b485f5465\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\88e629326a5faf32c976b63b485f5465\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\5703eb7392f836dc533cf7e283537fb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\5703eb7392f836dc533cf7e283537fb1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\aaab7c566bbe644896ec656f674eb65d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\aaab7c566bbe644896ec656f674eb65d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a0a45072f861b0fe97814aa8ecc555c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\a0a45072f861b0fe97814aa8ecc555c2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\0315332b367dbb97d41583f434d251dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\0315332b367dbb97d41583f434d251dd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\345f0cd2b2f8d445125c3ee52b5f9f91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\345f0cd2b2f8d445125c3ee52b5f9f91\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\acf2904f795c411b51ba3d4d5daf96ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\dyree\.gradle\caches\transforms-2\files-2.1\acf2904f795c411b51ba3d4d5daf96ff\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\dyree\AndroidStudioProjects\HumanOOP\app\src\main\AndroidManifest.xml
