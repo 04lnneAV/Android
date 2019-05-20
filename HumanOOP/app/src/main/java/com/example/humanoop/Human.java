@@ -45,17 +45,17 @@ public class Human {
 
     }
     public int sleep(int hours) {
-        Log.d("Human","I am sleeping for x hours");
+        Log.d("Human","I am sleeping for 7 hours");
         return hours;
 
     }
     public void speak (String speak){
-        Log.d("Human","Today is Sunday");
+        Log.d("Human","Today is Monday");
 
     }
     public int birthday (int increment){
-        age=age+increment;
-        return age;
+        age=age+1;
+        setage=age;
     }
 
     public int addweight (int increment){
